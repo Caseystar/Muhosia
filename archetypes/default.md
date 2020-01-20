@@ -1,12 +1,7 @@
----
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-description: ""
-draft: true
-tags: []
-categories: []
-author: "Wikipedia"
----
-
-<!--more-->
-
++++
+title = "{{ replace .Name "-" " " | title }}"
+date = "{{ .Date }}"
+tags = []
+description = ""
+slug = ""
++++
