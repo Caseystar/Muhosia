@@ -8,8 +8,8 @@
                 {{ end }}
                 <div class="post-body">
                     <hr class="music" />
-                    <audio src="{{ .Params.audio }}" controls="controls"></audio>
-                    <video src="{{ .Params.video }}" controls></video>
+                    <audio src="{{ .Params.audio }}" controls="controls" class="music_a" display = "none"></audio>
+                    <video src="{{ .Params.video }}" controls class="music_v"></video>
                     <div style="text-align: center">❤ evoL ni eveileB</div>
                     <hr class="music" />
                     <div class="music-footer">— {{ with .Params.info }}{{ printf `%s | ` (. | markdownify) | safeHTML }}{{ end }}more @ <a href="/music/">Music</a></div>
