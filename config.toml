@@ -80,7 +80,7 @@ uglyURLs = false
 # 作者信息
 [author]
     # 名字
-    name = "muhosia"
+    name = "Muhosia"
     # 邮箱
     email = "curtiantears@gmail.com"
     # 座右铭或简介
@@ -1214,11 +1214,11 @@ uglyURLs = false
     # 404 页面
 
     # 视频封面
-    fofPoster = "../images/flying-clouds-720p.jpg"
+    fofPoster = ""
 
     # 视频地址
-    fofVideoWebm = "https://gateway.pinata.cloud/ipns/io-oi.me/videos/flying-clouds-720p.webm"
-    fofVideoMp4 = "https://gateway.pinata.cloud/ipns/io-oi.me/videos/flying-clouds-720p.mp4"
+    fofVideoWebm = ""
+    fofVideoMp4 = ""
     # 说明：视频地址可留空（""）
 
 
