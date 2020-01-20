@@ -694,7 +694,7 @@ uglyURLs = false
     # 文章元信息
 
     # 是否开启（全局设置）
-    enablePostMeta = false
+    enablePostMeta = true
     # 说明：文章的 Front Matter 中的 `meta`
     #      的优先级高于此处
 
