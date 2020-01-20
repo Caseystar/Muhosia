@@ -3,18 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://muhosia.xyz/video/</loc>
-    <lastmod>2018-11-10T00:05:20+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://muhosia.xyz/love/</loc>
-    <lastmod>2020-01-20T11:43:04+08:00</lastmod>
+    <loc>https://muhosia.xyz/video/m%E5%AD%97%E5%BC%80%E8%85%BF%E7%BC%9A/</loc>
+    <lastmod>2020-01-20T14:22:53+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://muhosia.xyz/</loc>
-    <lastmod>2020-01-20T11:53:08+08:00</lastmod>
+    <lastmod>2020-01-20T14:22:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
@@ -29,7 +24,27 @@
   
   <url>
     <loc>https://muhosia.xyz/tags/</loc>
-    <lastmod>2020-01-20T11:53:08+08:00</lastmod>
+    <lastmod>2020-01-20T14:22:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://muhosia.xyz/tags/video/</loc>
+    <lastmod>2020-01-20T14:22:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://muhosia.xyz/tags/%E7%BB%B3%E8%89%BA/</loc>
+    <lastmod>2020-01-20T14:22:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://muhosia.xyz/video/</loc>
+    <lastmod>2018-11-10T00:05:20+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://muhosia.xyz/love/</loc>
+    <lastmod>2020-01-20T11:43:04+08:00</lastmod>
   </url>
   
   <url>
