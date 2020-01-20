@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Muhosia</title>
     <subtitle type="html">这是muhosia的个人博客，记录爱，记录生活，记录世界。</subtitle>
-    <updated>2020-01-20T15:21:25+08:00</updated>
+    <updated>2020-01-20T15:49:56+08:00</updated>
     <id>https://muhosia.xyz/</id>
     <link rel="alternate" type="text/html" href="https://muhosia.xyz/" />
     <link rel="self" type="application/atom+xml" href="https://muhosia.xyz/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">领养狗子</title>
             <link rel="alternate" type="text/html" href="https://muhosia.xyz/love/%E9%A2%86%E5%85%BB%E7%8B%97%E5%AD%90/" />
             <id>https://muhosia.xyz/love/%E9%A2%86%E5%85%BB%E7%8B%97%E5%AD%90/</id>
-            <updated>2020-01-04T20:15:55+08:00</updated>
+            <updated>2020-01-20T15:43:30+08:00</updated>
             <published>2020-01-03T11:09:44+08:00</published>
             <author>
                     <name>muhosia</name>
@@ -29,9 +29,8 @@
                     </author>
             <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights><summary type="html"><![CDATA[遇见狗子的故事]]></summary>
             
-                <content type="html"><![CDATA[<blockquote>
-<p><strong>这是一个捡到一只大狗的故事。</strong></p>
-</blockquote>]]></content>
+                <content type="html"><![CDATA[<p><strong>这是一个捡到一只大狗的故事。</strong></p>
+]]></content>
             
             
             
@@ -202,7 +201,7 @@
             <title type="text">BDSM科普</title>
             <link rel="alternate" type="text/html" href="https://muhosia.xyz/love/bdsm%E7%A7%91%E6%99%AE/" />
             <id>https://muhosia.xyz/love/bdsm%E7%A7%91%E6%99%AE/</id>
-            <updated>2020-01-20T11:43:04+08:00</updated>
+            <updated>2020-01-20T15:43:09+08:00</updated>
             <published>2018-12-09T11:09:44+08:00</published>
             <author>
                     <name>muhosia</name>
@@ -211,15 +210,9 @@
                     </author>
             <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
     
-    <summary type="html"><![CDATA[什么是BDSM]]></summary>
+    <summary type="html"><![CDATA[入圈这么久了，还没有正儿八经的写过一篇BDSM科普文章，那就写一下我对BDSM的理解吧。]]></summary>
             
                 <content type="html"><![CDATA[
-
-<blockquote>
-<p>入圈这么久了，还没有正儿八经的写过一篇BDSM科普文章，那就写一下我对BDSM的理解吧。</p>
-</blockquote>
-
-<!-- more -->
 
 <p><strong>无论什么东西，都离不开三个问题，是什么，怎么做，为什么。这篇文章也就从这三个方面来说。</strong></p>
 
@@ -351,7 +344,7 @@ SM的玩法，我觉得就没必要讲了，各种大家脑洞打开的玩法，
             <title type="text">少年</title>
             <link rel="alternate" type="text/html" href="https://muhosia.xyz/love/%E5%B0%91%E5%B9%B4/" />
             <id>https://muhosia.xyz/love/%E5%B0%91%E5%B9%B4/</id>
-            <updated>2020-01-20T11:42:02+08:00</updated>
+            <updated>2020-01-20T15:49:50+08:00</updated>
             <published>2018-12-09T11:09:44+08:00</published>
             <author>
                     <name>muhosia</name>
@@ -360,17 +353,9 @@ SM的玩法，我觉得就没必要讲了，各种大家脑洞打开的玩法，
                     </author>
             <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
     
-    <summary type="html"><![CDATA[自传]]></summary>
+    <summary type="html"><![CDATA[人总是要成长的，有些回忆，也必须记录下来。]]></summary>
             
                 <content type="html"><![CDATA[
-
-<blockquote>
-<p>人总是要成长的，有些回忆，也必须记录下来。</p>
-</blockquote>
-
-<!-- more -->
-
-<p>{% meting &quot;408332757&quot; &quot;netease&quot; &quot;song&quot; &quot;volume:0.5&quot; &quot;autoplay&quot; &quot;theme:#bf07ed&quot; %}</p>
 
 <p>二零零八年，九月一日，微凉，三中，初一一班。</p>
 
@@ -539,7 +524,7 @@ SM的玩法，我觉得就没必要讲了，各种大家脑洞打开的玩法，
             <title type="text">童年</title>
             <link rel="alternate" type="text/html" href="https://muhosia.xyz/love/%E7%AB%A5%E5%B9%B4/" />
             <id>https://muhosia.xyz/love/%E7%AB%A5%E5%B9%B4/</id>
-            <updated>2020-01-20T11:42:29+08:00</updated>
+            <updated>2020-01-20T15:43:11+08:00</updated>
             <published>2018-12-09T11:09:44+08:00</published>
             <author>
                     <name>muhosia</name>
@@ -548,15 +533,9 @@ SM的玩法，我觉得就没必要讲了，各种大家脑洞打开的玩法，
                     </author>
             <rights>在保留本文作者及本文链接的前提下，非商业用途随意转载分享。</rights>
     
-    <summary type="html"><![CDATA[自传]]></summary>
+    <summary type="html"><![CDATA[爱这东西，说出来矫情；不善表达，又太过冷漠。是太过繁忙的无奈，还是默默的在意，只要爱在那里，不曾离去。小小的身影，大大的书包，总不平坦的大街；昔日繁华，而今却满目苍夷。时光荏苒，承载了我那或许快乐或许凄凉的童年。]]></summary>
             
                 <content type="html"><![CDATA[
-
-<blockquote>
-<p>爱这东西，说出来矫情；不善表达，又太过冷漠。是太过繁忙的无奈，还是默默的在意，只要爱在那里，不曾离去。小小的身影，大大的书包，总不平坦的大街；昔日繁华，而今却满目苍夷。时光荏苒，承载了我那或许快乐或许凄凉的童年。</p>
-</blockquote>
-
-<!-- more -->
 
 <h3 id="所谓骄傲">所谓骄傲</h3>
 
