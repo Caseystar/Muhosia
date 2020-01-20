@@ -934,7 +934,7 @@ uglyURLs = false
     #      的的优先级高于此处
 
     # 是否在每一分隔线之后首字下沉（全局设置）
-    enableDropCapAfterHr = true
+    enableDropCapAfterHr = false
     # 说明：文章的 Front Matter 中的 `dropCapAfterHr`
     #      的的优先级高于此处
 
@@ -975,7 +975,7 @@ uglyURLs = false
     enablePostCopyright = true
 
     # 是否显示（全局设置）
-    displayPostCopyright = false
+    displayPostCopyright = true
     # 说明：文章的 Front Matter 中的 `displayCopyright`
     #      的的优先级高于此处
 
