@@ -84,7 +84,7 @@ uglyURLs = false
     # 邮箱
     email = "curtiantears@gmail.com"
     # 座右铭或简介
-    motto = "Viva La Vida"
+    motto = "love dog,love life,love world"
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
@@ -934,7 +934,7 @@ uglyURLs = false
     #      的的优先级高于此处
 
     # 是否在每一分隔线之后首字下沉（全局设置）
-    enableDropCapAfterHr = false
+    enableDropCapAfterHr = true
     # 说明：文章的 Front Matter 中的 `dropCapAfterHr`
     #      的的优先级高于此处
 
@@ -1001,17 +1001,17 @@ uglyURLs = false
     # 文章的 Git 版本信息
 
     # 是否开启
-    enablePostGitInfo = false
+    enablePostGitInfo = true
 
     # 是否显示（全局设置）
-    displayPostGitInfo = false
+    displayPostGitInfo = true
     # 说明：文章的 Front Matter 中的 `gitinfo`
     #      的的优先级高于此处
 
     # 仓库地址
     repoURL = "https://github.com/CurtainTears/Muhosia.top"
     # 编辑地址
-    repoEditURL = "https://github.com/CurtainTears/Muhosia.top/blob/master"
+    repoEditURL = "https://github.com/CurtainTears/Muhosia.top/tree/master"
 
     # Git 的图标
     gitIcon = "code-branch"
