@@ -1,10 +1,9 @@
 +++
-title = "Fix You (live)"
-date = "2017-04-15T18:23:12+08:00"
-description = "Lights will guide you home"
-audiov = "https://music.163.com/song?id=1324735214&userid=44721831"
+title = "M字开腿缚"
+date = "2020-01-20T18:23:12+08:00"
+description = "48号紧缚教程--M字开腿缚"
 video = "https://monsterdradky-blog-image.oss-cn-qingdao.aliyuncs.com/video/M%E5%AD%97%E5%BC%80%E8%85%BF%E7%BC%9A.mp4"
-info = "[*Mylo Xyloto Tour*](https://timeline.coldplay.com/show/stade-de-france/) (Stade de France, 2 September 2012)"
-tags = ["Music"]
+info = "[*绳师48号*](https://www.youtube.com/channel/UCrowlpIl7xV3mIvMK_SqWLg) (2019,M字开腿缚)"
+tags = ["video","绳艺"]
 weight = 1
 +++
