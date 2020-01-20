@@ -1117,7 +1117,7 @@ uglyURLs = false
     # 页脚
 
     # 是否开启
-    enableFooter = false
+    enableFooter = true
     # 说明：「诗意人生」和「视频片段」首页布局
     #      的首页没有页脚
 
