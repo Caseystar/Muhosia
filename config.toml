@@ -241,8 +241,8 @@ uglyURLs = false
         weight = 2
         pre = "internal"
     [[menu.links]]
-        url = "/music/"
-        name = "Music"
+        url = "/video/"
+        name = "Video"
         weight = 3
         pre = "internal"
 

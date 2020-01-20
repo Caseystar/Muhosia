@@ -7,12 +7,11 @@
                     <div class="post-description">{{ . | markdownify | safeHTML }}</div>
                 {{ end }}
                 <div class="post-body">
-                    <hr class="music" />
-                    <audio src="{{ .Params.audio }}" controls="controls" class="music_a"></audio>
-                    <video src="{{ .Params.video }}" controls class="music_v"></video>
+                    <hr class="video" />
+                    <video src="{{ .Params.video }}" controls></video>
                     <div style="text-align: center">❤ evoL ni eveileB</div>
-                    <hr class="music" />
-                    <div class="music-footer">— {{ with .Params.info }}{{ printf `%s | ` (. | markdownify) | safeHTML }}{{ end }}more @ <a href="/music/">Music</a></div>
+                    <hr class="video" />
+                    <div class="video-footer">— {{ with .Params.info }}{{ printf `%s | ` (. | markdownify) | safeHTML }}{{ end }}more @ <a href="/video/">video</a></div>
                 </div>
             </article>
         </div>

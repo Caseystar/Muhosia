@@ -1,10 +1,10 @@
 {{ define "main" }}
     <main class="main list" id="main">
         <div class="main-inner">
-            <div class="content list-music">
+            <div class="content list-video">
                 <h1 class="list-title">{{ .Title }}</h1>
                 <div class="post-body">
-                    <hr class="music" />
+                    <hr class="video" />
                     {{ with .Params.banner }}
                         <img src = {{ . }} {{ if $.Site.Params.enableMediumZoom }} data-zoomable{{ end }} />
                     {{ end }}
@@ -13,8 +13,8 @@
                             <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
                         {{ end }}
                     </ul>
-                    <hr class="music" />
-                    <div class="music-footer">— updated @ {{ .Lastmod.Format "2006-01-02 15:04:05" }}</div>
+                    <hr class="video" />
+                    <div class="video-footer">— updated @ {{ .Lastmod.Format "2006-01-02 15:04:05" }}</div>
                 </div>
             </div>
         </div>

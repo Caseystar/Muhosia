@@ -8,7 +8,7 @@
     -webkit-text-fill-color: transparent;
 }
 
-hr.music {
+hr.video {
     background-image: url(../images/rainbow.svg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -17,12 +17,12 @@ hr.music {
         content: none;
     }
 }
-.music-footer {
+.video-footer {
     text-align: right;
     font-size: 80%;
 }
 
-.list-music {
+.list-video {
     hr {
         border: none;
         margin: 2.427em 0 1.5em;
