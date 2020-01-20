@@ -242,7 +242,7 @@ uglyURLs = false
         pre = "internal"
     [[menu.links]]
         url = "/music/"
-        name = "music"
+        name = "Music"
         weight = 3
         pre = "internal"
 
@@ -279,12 +279,12 @@ uglyURLs = false
     siteBrandFontColor = "#fff"
 
     # 背景色
-    # siteBrandBackgroundColor = "hsl(240, 8%, 12%)"
+    #siteBrandBackgroundColor = "hsl(240, 8%, 12%)"
     # 背景图片
-    #siteBrandBackgroundImage = "background:url(https://muhosia.oss-cn-shanghai.aliyuncs.com/images/brandbackgroundimage.jpg)"
-
-    siteBrandBackgroundImage = "linear-gradient(90deg, #f79533 0, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%)"
-    # 注意：背景色和背景图片只能二选一
+    siteBrandBackgroundImageURL = "https://muhosia.oss-cn-shanghai.aliyuncs.com/images/brandbackgroundimage.jpg"   
+    # 背景图片渐变色
+    #siteBrandBackgroundImage = "linear-gradient(90deg, #f79533 0, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%)"
+    # 注意：背景色和背景图片和背景图片渐变色只能三选一
 
 
     ######################################
@@ -828,7 +828,7 @@ uglyURLs = false
     #      比如：/videos/meme.mp4
 
     # 是否开启
-    enableVideoHost = true
+    enableVideoHost = false
 
     # 视频外链地址
     videoHostURL = "https://gateway.pinata.cloud/ipfs/"
@@ -1009,9 +1009,9 @@ uglyURLs = false
     #      的的优先级高于此处
 
     # 仓库地址
-    repoURL = "https://github.com/reuixiy/io-oi.me"
+    repoURL = "https://github.com/CurtainTears/Muhosia.top"
     # 编辑地址
-    repoEditURL = "https://github.com/reuixiy/io-oi.me/blob/master"
+    repoEditURL = "https://github.com/CurtainTears/Muhosia.top/blob/master"
 
     # Git 的图标
     gitIcon = "code-branch"

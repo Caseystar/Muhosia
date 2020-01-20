@@ -123,9 +123,13 @@
 
 {{ if .Site.Params.enableHeader }}
     @import "_common/header.scss";
+    
     .site-brand {
         {{ with .Site.Params.siteBrandBackgroundColor }}
             background-color: {{ . }}
+        {{ end }}
+        {{ with .Site.Params.siteBrandBackgroundImageURL }}
+            background-image:url( {{ . }} );
         {{ end }}
         {{ with .Site.Params.siteBrandBackgroundImage }}
             background-image: {{ . }};
