@@ -271,7 +271,7 @@ uglyURLs = false
     # 件内，并配置以下项。单位：px。
     siteBrandSVGWidth = 250
     siteBrandSVGHeight = 100
-    siteBrandSVGFill = "#402163"
+    siteBrandSVGFill = "#132456"
     # 如果否，则会使用你的站点标题作为默认值，并
     # 以文字的形式显示，下方可配置字号和字色。字
     # 体请到底部的字体部分配置。单位：em。
@@ -1248,7 +1248,7 @@ uglyURLs = false
         url = "/en-us/about/"
         weight = 3
         pre = "internal"
-        post = "user-circle"
+        post = "me"
         identifier = "about"
 [languages.en-us.params]
     homePoetry = ["In life", "There will always be some accidents", "Some accidents", "It is an accident", "But others", "It is your luck"]
