@@ -1004,7 +1004,7 @@ uglyURLs = false
     enablePostGitInfo = true
 
     # 是否显示（全局设置）
-    displayPostGitInfo = true
+    displayPostGitInfo = false
     # 说明：文章的 Front Matter 中的 `gitinfo`
     #      的的优先级高于此处
 
