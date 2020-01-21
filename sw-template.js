@@ -7,7 +7,7 @@ workbox.setConfig({
 });
 
 workbox.core.setCacheNameDetails({
-    prefix: "Muhosia"
+    prefix: "muhosia"
 });
 
 workbox.core.skipWaiting();
