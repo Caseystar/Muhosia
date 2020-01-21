@@ -596,14 +596,14 @@ uglyURLs = false
     disqusShortname = ""
 
     ## Valine
-    enableValine = false
-    valineAppId = ""
-    valineAppKey = ""
+    enableValine = true
+    valineAppId = "w2DeFdn7xArTKacmbhyA1n29-gzGzoHsz"
+    valineAppKey = "v5pyzCS4BiqLzPztvBLBrSkI"
     valinePlaceholder = "Just go go"
     valineNotify = false
     valineVerify = false
     valinePath = ""
-    valineAvatar = "mm"
+    valineAvatar = "monsterid"
     valineMeta = ["nick", "mail", "link"]
     valinePageSize = 10
     valineLang = "zh-cn"
