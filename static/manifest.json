@@ -1,5 +1,5 @@
 {
-    "name": "Muhosia's Blog",
+    "name": "Muhosia",
     "short_name": "Muhosia",
     "icons": [
         {
@@ -10,5 +10,7 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "display": "standalone"
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "start_url": "./?utm_source=homescreen"
 }
