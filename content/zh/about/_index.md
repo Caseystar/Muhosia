@@ -6,7 +6,7 @@ comments : false
 ---
 
 
-## 家有恶犬，请勿靠近
+## <center>家有恶犬，请勿靠近</center>
 
 ### 关于我
 * 人在上海
