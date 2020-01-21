@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/CurtainTears/Muhosia.top/issues"
   },
-  "homepage": "https://github.com/CurtainTears/Muhosia.top#readme"
+  "homepage": "https://github.com/CurtainTears/Muhosia.top#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "readable-stream": "^3.5.0",
+    "uglify-es": "^3.3.9",
+    "workbox-build": "^4.3.1"
+  }
 }
