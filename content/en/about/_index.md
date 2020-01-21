@@ -5,6 +5,6 @@ keywords = ["about", "关于此博客", "muhosia"]
 comments = false
 +++
 
-<center>love dog</center>
-<center>love life</center>
-<center>love world</center>
+<center>love dog.</center>
+<center>love life.</center>
+<center>love world.</center>
