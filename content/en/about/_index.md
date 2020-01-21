@@ -6,5 +6,7 @@ comments = false
 +++
 
 <center>love dog.</center>
+
 <center>love life.</center>
+
 <center>love world.</center>
