@@ -33,8 +33,9 @@ hr.video {
         max-width: 100%;
     }
     ul {
-        padding-left: 2em;
+        padding-left: 4em;
         line-height: $lineHeight;
-        list-style-type: disc;
+        //list-style-type: circle;
+        list-style-image: url(../images/video.svg);
     }
 }
