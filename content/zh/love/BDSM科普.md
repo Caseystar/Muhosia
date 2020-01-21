@@ -5,6 +5,7 @@ description: "入圈这么久了，还没有正儿八经的写过一篇BDSM科�
 draft: false
 tags: ["随笔","科普","文章"]
 author: "Muhosia"
+toc: true
 ---
 
 **无论什么东西，都离不开三个问题，是什么，怎么做，为什么。这篇文章也就从这三个方面来说。**
