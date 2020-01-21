@@ -1,6 +1,7 @@
 # Hugo 
 resources
 public
+node_modules
 ## OS Files
 # Windows
 Thumbs.db
