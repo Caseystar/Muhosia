@@ -1,6 +1,11 @@
 <head {{ if .Site.Params.openGraph }} prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#"{{ end }}>
     <meta charset="UTF-8" />
-
+    <!-- require APlayer -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+    <!-- require MetingJS -->
+    <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+    
     {{- with .Site.Params.defaultTheme | default "light" -}}
         {{- if eq . "light" -}}
             <meta name="theme-color" content="{{ $.Site.Params.themeColor }}" />
@@ -130,11 +135,7 @@
         {{ partial "components/json-ld.html" (dict "Deliver" $Deliver "description" $description "keywords" $keywords) }}
     {{- end }}
 
-    <!-- require APlayer -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
-    <!-- require MetingJS -->
-    <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+
     
     <!-- Twitter Cards -->
     {{- with .Site.Params.twitterCards -}}
