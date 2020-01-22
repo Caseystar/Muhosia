@@ -281,7 +281,7 @@ uglyURLs = false
     # 背景色
     #siteBrandBackgroundColor = "hsl(240, 8%, 12%)"
     # 背景图片
-    siteBrandBackgroundImageURL = "https://muhosia.oss-cn-shanghai.aliyuncs.com/images/headback.png"
+    siteBrandBackgroundImageURL = "https://muhosia-1258216676.cos.ap-shanghai.myqcloud.com/img/headback.png"
     # 背景图片渐变色
     #siteBrandBackgroundImage = "linear-gradient(90deg, #f79533 0, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%)"
     # 注意：背景色和背景图片和背景图片渐变色只能三选一
@@ -318,7 +318,7 @@ uglyURLs = false
     # 诗句，支持 Markdown
     homePoetry = ["生命中", "总会遇到一些意外", "有些意外", "是意外", "但另一些","是你的幸运"]
     # 底部链接的内间距，单位：em
-    homeLinksPadding = 1
+    homeLinksPadding = 2
 
     ## 「视频片段」
     homePoster = ""
@@ -417,7 +417,7 @@ uglyURLs = false
     # 列表页面
 
     # 宽度
-    listWidth = 36
+    listWidth = 42
     # 说明：如果留空（""），则用 42 作为默认值
     #      单位：em
 
@@ -718,7 +718,7 @@ uglyURLs = false
     modifiedDateIcon = "calendar-check"
 
     # 是否显示过期时间
-    displayExpiredDate = true
+    displayExpiredDate = false
     # 过期时间的图标
     expiredDateIcon = "calendar-times"
 
@@ -1004,14 +1004,14 @@ uglyURLs = false
     enablePostGitInfo = true
 
     # 是否显示（全局设置）
-    displayPostGitInfo = false
+    displayPostGitInfo = true
     # 说明：文章的 Front Matter 中的 `gitinfo`
     #      的的优先级高于此处
 
     # 仓库地址
     repoURL = "https://github.com/CurtainTears/Muhosia"
     # 编辑地址
-    repoEditURL = "https://github.com/CurtainTears/Muhosia/tree/master"
+    repoEditURL = "https://github.com/CurtainTears/Muhosia/blob/master"
 
     # Git 的图标
     gitIcon = "code-branch"
