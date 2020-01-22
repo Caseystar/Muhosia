@@ -3,7 +3,7 @@ title: "BDSM科普"
 date: 2018-12-09T11:09:44+08:00
 description: "入圈这么久了，还没有正儿八经的写过一篇BDSM科普文章，那就写一下我对BDSM的理解吧。"
 draft: false
-tags: ["随笔","科普","文章"]
+tags: ["BDSM","科普","文章"]
 author: "Muhosia"
 toc: true
 dropCap: false
