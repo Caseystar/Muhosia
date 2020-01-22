@@ -758,7 +758,7 @@ uglyURLs = false
     #      的优先级高于此处
 
     # 是否显示目录标题
-    displayTOCTitle = true
+    displayTOCTitle = false
 
     # 是否链接文章的分节标题到目录
     linkHeadingsToTOC = true
