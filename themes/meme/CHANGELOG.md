@@ -1,3 +1,66 @@
+## [4.0.1](https://github.com/reuixiy/hugo-theme-meme/compare/v4.0.0...v4.0.1) (2020-01-09)
+
+
+### Bug Fixes
+
+* missing `<p>` tag when content has one line ([d7f4b8f](https://github.com/reuixiy/hugo-theme-meme/commit/d7f4b8f)), closes [#49](https://github.com/reuixiy/hugo-theme-meme/issues/49)
+* regex of content.html ([01039b7](https://github.com/reuixiy/hugo-theme-meme/commit/01039b7))
+* style of footnotes ([f4a3dd0](https://github.com/reuixiy/hugo-theme-meme/commit/f4a3dd0))
+
+
+
+# [4.0.0](https://github.com/reuixiy/hugo-theme-meme/compare/v3.4.5...v4.0.0) (2020-01-08)
+
+
+As I described in [#26](https://github.com/reuixiy/hugo-theme-meme/issues/26), I want to make MemE support Hugo's new default Markdown rendering engine Goldmark, and this is it. In this version, MemE will support Goldmark and *no longer support* Blackfriday.
+
+### Notes
+
+1. Goldmark problems, see [#43 (comment)](https://github.com/reuixiy/hugo-theme-meme/issues/43#issuecomment-571074162)
+
+2. Compatibility with LaTeX, see [gohugoio/hugo#6544](https://github.com/gohugoio/hugo/issues/6544)
+
+    [Previously](https://github.com/reuixiy/hugo-theme-meme/issues/12), I suggested adding some backslashes to escape some characters to solve the syntax conflict between Markdown and LaTeX. Now, I think that is not the *right* way -- it's troublesome and stupid.
+
+    In v4.0.0, MemE adds a new `compatibleWithLaTeX` option as a temporary workaround. But note that it has some limitations, such as it can't exclude equations inside code block, it supports `$ ... $` and `$$ ... $$` only.
+
+    And at last, apology for my wrong suggestion, which may take some of your time to modify the equations again.
+
+3. With Hugo brand new Markdown renderer Goldmark, [#14](https://github.com/reuixiy/hugo-theme-meme/issues/14) should be fixed.
+
+### ATTENTION
+
+**MemE v4.0.0 requires Hugo v0.62.2 or higher.**
+
+
+
+## [3.4.5](https://github.com/reuixiy/hugo-theme-meme/compare/v3.3.9...v3.4.5) (2020-01-08)
+
+
+### Bug Fixes
+
+* cannot change highlight theme in dark-mode.js ([b81d551](https://github.com/reuixiy/hugo-theme-meme/commit/b81d551))
+* style of back-to-top ([e5bda3a](https://github.com/reuixiy/hugo-theme-meme/commit/e5bda3a))
+* style of post-meta, busuanzi-site-uv-and-pv ([a4e4137](https://github.com/reuixiy/hugo-theme-meme/commit/a4e4137))
+* style related to flex ([ad0f403](https://github.com/reuixiy/hugo-theme-meme/commit/ad0f403))
+* Use .Permalink instead of combining URLs ([f1d4906](https://github.com/reuixiy/hugo-theme-meme/commit/f1d4906))
+* wrong utterances theme after theme is changed ([4389ddf](https://github.com/reuixiy/hugo-theme-meme/commit/4389ddf))
+
+
+### Features
+
+* add "custom/content.html" partial ([3cc100b](https://github.com/reuixiy/hugo-theme-meme/commit/3cc100b))
+* add "custom/script.html" partial ([d442001](https://github.com/reuixiy/hugo-theme-meme/commit/d442001))
+* autohide back-to-top toggle ([6659f25](https://github.com/reuixiy/hugo-theme-meme/commit/6659f25))
+* medium zoom for images ([b7cf602](https://github.com/reuixiy/hugo-theme-meme/commit/b7cf602))
+* new `disableMathJaxMenu` option ([b759b6e](https://github.com/reuixiy/hugo-theme-meme/commit/b759b6e))
+* smooth scroll ([aaa5a42](https://github.com/reuixiy/hugo-theme-meme/commit/aaa5a42))
+* support `tab-size` CSS property ([56a9e1d](https://github.com/reuixiy/hugo-theme-meme/commit/56a9e1d))
+* support busuanzi view counter [#40](https://github.com/reuixiy/hugo-theme-meme/issues/40) ([09e9976](https://github.com/reuixiy/hugo-theme-meme/commit/09e9976))
+* support utterances and a couple of bug fixes ([8339f71](https://github.com/reuixiy/hugo-theme-meme/commit/8339f71))
+
+
+
 ## [3.3.9](https://github.com/reuixiy/hugo-theme-meme/compare/v3.2.7...v3.3.9) (2019-12-18)
 
 
