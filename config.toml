@@ -1005,7 +1005,7 @@ uglyURLs = false
     enablePostGitInfo = true
 
     # 是否显示（全局设置）
-    displayPostGitInfo = true
+    displayPostGitInfo = false
     # 说明：文章的 Front Matter 中的 `gitinfo`
     #      的的优先级高于此处
 
@@ -1061,7 +1061,7 @@ uglyURLs = false
     # 文章的标签
 
     # 是否开启
-    enablePostTags = true
+    enablePostTags = false
 
     # 标签的图标
     postTagsIcon = "tag"
@@ -1078,7 +1078,7 @@ uglyURLs = false
     #      的是一篇更旧的文章。
 
     # 是否开启
-    enablePostNav = false
+    enablePostNav = true
 
     # 是否仅限于相同的文章分区
     postNavInSection = true
