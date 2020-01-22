@@ -1,7 +1,6 @@
 <head {{ if .Site.Params.openGraph }} prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#"{{ end }}>
     <meta charset="UTF-8" />
-
-
+    
     {{- with .Site.Params.defaultTheme | default "light" -}}
         {{- if eq . "light" -}}
             <meta name="theme-color" content="{{ $.Site.Params.themeColor }}" />
