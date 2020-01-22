@@ -596,6 +596,7 @@ uglyURLs = false
     disqusShortname = ""
 
     ## Valine
+
     enableValine = false
     valineAppId = "w2DeFdn7xArTKacmbhyA1n29-gzGzoHsz"
     valineAppKey = "v5pyzCS4BiqLzPztvBLBrSkI"
@@ -612,7 +613,7 @@ uglyURLs = false
     avatarForce = false
     valineRecordIP = false
     valineServerURLs = ""
-    # 说明：https://valine.js.org/
+    # 说明：https://valine.js.org/   
 
     ## Utterances
     enableUtterances = false
