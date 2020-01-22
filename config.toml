@@ -587,7 +587,7 @@ uglyURLs = false
     # 说明：仅在生产环境（production）下渲染
 
     # 是否开启（全局设置）
-    enableComments = false
+    enableComments = true
     # 说明：文章的 Front Matter 中的 `comments`
     #      的优先级高于此处
 
@@ -1046,7 +1046,7 @@ uglyURLs = false
     enableRelatedPosts = true
 
     # 是否显示（全局设置）
-    displayRelatedPosts = false
+    displayRelatedPosts = true
     # 说明：文章的 Front Matter 中的 `related`
     #      的的优先级高于此处
 
@@ -1061,7 +1061,7 @@ uglyURLs = false
     # 文章的标签
 
     # 是否开启
-    enablePostTags = false
+    enablePostTags = true
 
     # 标签的图标
     postTagsIcon = "tag"
