@@ -1,0 +1,13 @@
+[build]
+publish = "public"
+command = "npm run build"
+
+[context.production.environment]
+HUGO_VERSION = "0.62.2"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
+
+[[redirects]]
+  from = "https://muhosia.netlify.com/*"
+  to = "https://muhosia.xyz/:splat"
+  force = true
