@@ -596,7 +596,7 @@ uglyURLs = false
     disqusShortname = ""
 
     ## Valine
-    enableValine = true
+    enableValine = false
     valineAppId = "w2DeFdn7xArTKacmbhyA1n29-gzGzoHsz"
     valineAppKey = "v5pyzCS4BiqLzPztvBLBrSkI"
     valinePlaceholder = "Just go go"
@@ -1045,12 +1045,12 @@ uglyURLs = false
     enableRelatedPosts = true
 
     # 是否显示（全局设置）
-    displayRelatedPosts = true
+    displayRelatedPosts = false
     # 说明：文章的 Front Matter 中的 `related`
     #      的的优先级高于此处
 
     # 相关文章数
-    relatedPostsNumber = 5
+    relatedPostsNumber = 2
 
     # 相关文章标题右边的图标
     relatedPostsIcon = "plus-circle"
