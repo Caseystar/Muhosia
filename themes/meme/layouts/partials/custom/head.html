@@ -1,5 +1,10 @@
 <!-- require APlayer -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
-<script src="../../js/APlayer.min.js"></script>
+<!-- require APlayer -->
+
+{{- $APlayer := resources.Get "js/APlayer.min.js" | resources.ExecuteAsTemplate "js/APlayer.min-rendered.js" . -}}
+<!-- require APlayer -->
+
+{{- .Scratch.Set "script" (slice $APlayer) -}}
 <!-- require MetingJS -->
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
