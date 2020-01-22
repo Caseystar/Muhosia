@@ -318,7 +318,7 @@ uglyURLs = false
     # 诗句，支持 Markdown
     homePoetry = ["生命中", "总会遇到一些意外", "有些意外", "是意外", "但另一些","是你的幸运"]
     # 底部链接的内间距，单位：em
-    homeLinksPadding = 2
+    homeLinksPadding = 1
 
     ## 「视频片段」
     homePoster = ""
@@ -417,7 +417,7 @@ uglyURLs = false
     # 列表页面
 
     # 宽度
-    listWidth = 42
+    listWidth = 36
     # 说明：如果留空（""），则用 42 作为默认值
     #      单位：em
 
