@@ -8,6 +8,7 @@ slug : ""
 toc: false
 dropCap: false
 indent : false
+aplayer: false
 ---
 
 
