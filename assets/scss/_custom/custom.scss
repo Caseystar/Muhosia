@@ -7,6 +7,15 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 } */
+{{ if .Site.Params.enableHeader }}
+    @import "_common/header.scss";
+    .site-brand {
+        {{ with .Site.Params.siteBrandBackgroundImageURL }}
+            background-image:url( {{ . }} );
+        {{ end }}
+    }
+{{ end }}
+
 
 hr.video {
     background-image: url(../images/rainbow.svg);
