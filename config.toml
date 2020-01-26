@@ -12,7 +12,7 @@ copyright = "在保留本文作者及本文链接的前提下，非商业用途�
 theme = "meme"
 
 # `hugo new` 新建文章自动打开的文本编辑器
-newContentEditor = "atom"
+newContentEditor = ""
 
 # i18n
 defaultContentLanguage = "zh-cn"
@@ -283,7 +283,6 @@ uglyURLs = false
     # 背景图片
 
     siteBrandBackgroundImage = "url(https://muhosia-1258216676.cos.ap-shanghai.myqcloud.com/img/headback.png)"
-    #siteBrandBackgroundImageURL = "https://muhosia-1258216676.cos.ap-shanghai.myqcloud.com/img/headback.png"
     # 背景图片渐变色
     #siteBrandBackgroundImage = "linear-gradient(90deg, #f79533 0, #f37055 15%, #ef4e7b 30%, #a166ab 44%, #5073b8 58%, #1098ad 72%, #07b39b 86%, #6dba82 100%)"
     # 注意：背景色和背景图片和背景图片渐变色只能三选一
@@ -770,7 +769,7 @@ uglyURLs = false
     # 分节标题锚点
 
     # 是否开启
-    enableHeadingsAnchor = false
+    enableHeadingsAnchor = true
 
     # 分节标题的级别范围
     headingsOpt = "1-6"
@@ -932,7 +931,7 @@ uglyURLs = false
     ## 首字下沉
 
     # 是否开启（全局设置）
-    enableDropCap = false
+    enableDropCap = true
     # 说明：文章的 Front Matter 中的 `dropCap`
     #      的的优先级高于此处
 
