@@ -880,7 +880,7 @@ uglyURLs = false
     # 引用
     fontFamilyQuote = "'Ma Shan Zheng'"
     # 文章目录
-    fontFamilyTOC = ""
+    fontFamilyTOC = "Ma Shan Zheng"
     # 说明文字
     fontFamilyCaption = "'Ma Shan Zheng'"
     # 页脚
