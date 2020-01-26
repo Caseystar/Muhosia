@@ -8,7 +8,7 @@ displayCopyright: false
 ---
 
 
-## <center>家有恶犬，请勿靠近</center>
+## <center><font color="red">家有恶犬，请勿靠近</font></center>
 
 ### 关于我
 * 人在上海
