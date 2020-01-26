@@ -6,6 +6,7 @@ draft: false
 tags: ["BDSM","科普","文章"]
 author: "Muhosia"
 dropCap: false
+toc: true
 ---
 
 **无论什么东西，都离不开三个问题，是什么，怎么做，为什么。这篇文章也就从这三个方面来说。**
